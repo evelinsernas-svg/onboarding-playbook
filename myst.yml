@@ -37,6 +37,8 @@ project:
       - file: sesion2/3_6_cierre.md
 
     - file: anexos.md
+
+    - file: archivotest.md
   
 
   options:
